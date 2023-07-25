@@ -1,2 +1,2 @@
-# TedjqniKheddariFullStuck
+# TedjaniKheddariFullStuck
 A full stuck developer
